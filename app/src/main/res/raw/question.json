@@ -1,0 +1,65 @@
+[
+  {
+    "answer": "",
+    "id": 0,
+    "list": [],
+    "question": "1. What is your name?",
+    "type": 0
+  },
+  {
+    "answer": "",
+    "id": 1,
+    "list": [
+      {
+        "isSelected": false,
+        "options": "Sachin",
+        "uid": 0
+      },
+      {
+        "isSelected": false,
+        "options": "Virat",
+        "uid": 0
+      },
+      {
+        "isSelected": false,
+        "options": "Gale",
+        "uid": 0
+      },
+      {
+        "isSelected": false,
+        "options": "Vision",
+        "uid": 0
+      }
+    ],
+    "question": "2. Who is the best cricketer in the world?",
+    "type": 1
+  },
+  {
+    "answer": "",
+    "id": 1,
+    "list": [
+      {
+        "isSelected": false,
+        "options": "white",
+        "uid": 0
+      },
+      {
+        "isSelected": false,
+        "options": "Yellow",
+        "uid": 0
+      },
+      {
+        "isSelected": false,
+        "options": "Orange",
+        "uid": 0
+      },
+      {
+        "isSelected": false,
+        "options": "Green",
+        "uid": 0
+      }
+    ],
+    "question": "3. What are the colors in the Indian national flag?",
+    "type": 2
+  }
+]
